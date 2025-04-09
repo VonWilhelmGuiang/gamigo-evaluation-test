@@ -1,11 +1,14 @@
 # Gamigo Philippines Inc.
-Evaluation Test
 
-I used Visual Studio as my IDE.
+<h1>Evaluation Test<h1>
 
-File Stracture:
-	exe files   	   : contains the compiled C++ builds
-	item1 -> main.cpp  : has the C++ codes for test number 1
-	item2 -> main.cpp  : has the C++ codes for test number 2
-	item3 -> main.cpp  : has the C++ codes for test number 3
-	Programming Test C++.docx : test questionaire/guide sent by Miss Haradev
+<p>I used Visual Studio as my IDE.</p>
+
+<p>
+File Stracture:<br>
+<strong>Programming Test C++.docx</strong> : test questionaire/guide sent by Ms.Haradev<br>
+<strong>exe files</strong> : contains the compiled C++ builds<br>
+<strong>item1 / main.cpp</strong> : has the C++ codes for test number 1<br>
+<strong>item2 / main.cpp</strong> : has the C++ codes for test number 2<br>
+<strong>item3 / main.cpp</strong> : has the C++ codes for test number 3<br>
+</p>
