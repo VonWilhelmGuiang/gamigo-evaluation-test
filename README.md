@@ -5,7 +5,7 @@
 <p>I used Visual Studio as my IDE.</p>
 
 <p>
-File Stracture:<br>
+File Structure:<br>
 
 <strong>Programming Test C++.docx</strong> : test questionaire/guide sent by Ms.Haradev<br>
 <strong>exe files</strong> : contains the compiled C++ builds<br>
