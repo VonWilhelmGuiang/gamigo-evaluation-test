@@ -6,6 +6,7 @@
 
 <p>
 File Stracture:<br>
+
 <strong>Programming Test C++.docx</strong> : test questionaire/guide sent by Ms.Haradev<br>
 <strong>exe files</strong> : contains the compiled C++ builds<br>
 <strong>item1 / main.cpp</strong> : has the C++ codes for test number 1<br>
