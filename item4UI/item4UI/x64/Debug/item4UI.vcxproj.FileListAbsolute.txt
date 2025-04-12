@@ -1,0 +1,3 @@
+D:\Von Wilhelm Guiang\Documents\Projects\Gamigo\item4UI\item4UI\x64\Debug\item4UI.vcxproj.AssemblyReference.cache
+D:\Von Wilhelm Guiang\Documents\Projects\Gamigo\item4UI\item4UI\x64\Debug\item4UI.Elevator.resources
+D:\Von Wilhelm Guiang\Documents\Projects\Gamigo\item4UI\item4UI\x64\Debug\item4UI.vcxproj.GenerateResource.cache
